@@ -10,6 +10,7 @@ O menu do jogo é a interface principal do programa, onde o usuário pode escolh
 - Perguntas e respostas
 - Cobra na caixa 
 - Tropas de elite
+
 Além disso, há também a opção de sair do programa, que encerra a execução do código.
 
 
