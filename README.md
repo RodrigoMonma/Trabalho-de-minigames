@@ -28,12 +28,9 @@ Tropas de elite:
 
 Trata-se de um jogo de estratégia de 2 jogadores. Cada usuário possui dois grupos e tropas que iniciam com uma tropa cada. A quantidade de tropas mudará com base nas ações dos jogadores. Há dois tipos de ações:
 
-Atacar: O usuário recebe duas opções se referindo a cada grupo, ou seja, é decidido se o primeiro ou o segundo grupo irá atacar, e em seguida é perguntado qual dos dois grupos do adversário será atacado. a quantidade de tropas que atacam é somada com as tropas do grupo alvo escolhido;
+Atacar: O usuário recebe duas opções se referindo a cada grupo, ou seja, é decidido se o primeiro ou o segundo grupo irá atacar, e em seguida é perguntado qual dos dois grupos do adversário será atacado. a quantidade de tropas que atacam é somada com as tropas do grupo alvo escolhido; Quando um grupo atinge uma quantidade de tropas acima de 5, as tropas são desfeitas e o grupo se torna nulo, impedindo que o mesmo possa atacar ou ser atacado.
 
-Quando um grupo atinge uma quantidade de tropas acima de 5, as tropas são desfeitas e o grupo se torna nulo, impedindo que o mesmo possa atacar ou ser atacado.
-Redistribuir: O usuário recebe a opção de dividir suas tropas entre seus grupos, desde que essa ação não elimine nenhum dos grupo, ou seja, não iguale a 0 ou ultrapasse 5;
-
-É possível também reativar um grupo através da redistribuição, em outras palavras ocorre uma doação entre as partes de um mesmo jogador.
+Redistribuir: O usuário recebe a opção de dividir suas tropas entre seus grupos, desde que essa ação não elimine nenhum dos grupo, ou seja, não iguale a 0 ou ultrapasse 5; É possível também reativar um grupo através da redistribuição, em outras palavras ocorre uma doação entre as partes de um mesmo jogador.
 
 O jogo acaba quando um jogador conseguir anular os dois grupos de seu adversário, neste caso ele será o vencedor.
 
