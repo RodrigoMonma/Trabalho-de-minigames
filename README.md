@@ -3,7 +3,7 @@ Um dos meus sonhos de infância sempre foi criar um videogame, mas não achava q
 
 Nesse repositório sera mostrado um trabalho avaliativo de faculdade, cujo objetivo é desenvolver 3 minigames simples em C além de uma interface para uma básica navegação.
 
-Integrantes: Rodrigo Monma e Pedro Leão. 
+Integrantes: Rodrigo Ryoji Oliveira Monma e Pedro Augusto Leão Queiroz. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Menu principal: 
@@ -12,7 +12,7 @@ O menu do jogo é a interface principal do programa, onde o usuário pode escolh
 - Cobra na caixa 
 - Tropas de elite
 
-Além disso, há também a opção de sair do programa, que encerra a execução do código.
+Além disso, há também a opção de sair do programa, que encerra a execução do código e um segredo.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
