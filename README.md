@@ -38,11 +38,5 @@ Atacar: O usuário recebe duas opções se referindo a cada grupo, ou seja, é d
 
 Redistribuir: O usuário recebe a opção de dividir suas tropas entre seus grupos, desde que essa ação não elimine nenhum dos grupo, ou seja, não iguale a 0 ou ultrapasse 5; É possível também reativar um grupo através da redistribuição, em outras palavras ocorre uma doação entre as partes de um mesmo jogador.
 
-O jogo acaba quando um jogador conseguir anular os dois grupos de seu adversário, neste caso ele será o vencedor.
-
-
-
-
-
-Ao final, os jogadores podem optar por reiniciar o jogo ou retornar ao menu inicial.
+O jogo acaba quando um jogador conseguir anular os dois grupos de seu adversário, neste caso ele será o vencedor. Ao final, os jogadores podem optar por reiniciar o jogo ou retornar ao menu inicial.
 
