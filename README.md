@@ -5,6 +5,7 @@ Nesse repositório sera mostrado um trabalho avaliativo de faculdade, cujo objet
 
 Integrantes: Rodrigo Monma e Pedro Leão. 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Menu principal: 
 O menu do jogo é a interface principal do programa, onde o usuário pode escolher o que deseja fazer. Nele, estão disponíveis três opções de jogos
 - Perguntas e respostas
