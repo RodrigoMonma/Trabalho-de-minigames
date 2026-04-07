@@ -14,13 +14,13 @@ O menu do jogo é a interface principal do programa, onde o usuário pode escolh
 Além disso, há também a opção de sair do programa, que encerra a execução do código.
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Perguntas e Respostas:
 
 Trata-se  de um jogo com simples com 5 questões cada uma possuindo 4 alternativas e somente uma deles está correta. Ao final do jogo é somada e entregue uma notificação de quantas questões o jogador acertou  juntamente com uma pergunte de deseja recomeçar ou sair(voltar ao menu inicial).
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cobra na caixa: 
 
 Trata-se de um jogo com 5 caixas que escondem aleatoriamente três elementos que serão escolhidos por dois jogadores representados cada por um dos 7 nomes disponíveis no  jogo. Após a escolha dos nomes, o jogo decidirá quem irá escolher a primeira caixa do jogo. Essas caixas uma contém a cobra, o botão e as demais estão vazias.
@@ -28,7 +28,7 @@ O jogador deve escolher uma caixa por rodada. Caso escolha a caixa com a cobra, 
 Ao final, os jogadores podem optar por reiniciar o jogo ou retornar ao menu inicial.
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tropas de elite: 
 
 Trata-se de um jogo de estratégia de 2 jogadores. Cada usuário possui dois grupos e tropas que iniciam com uma tropa cada. A quantidade de tropas mudará com base nas ações dos jogadores. Há dois tipos de ações:
